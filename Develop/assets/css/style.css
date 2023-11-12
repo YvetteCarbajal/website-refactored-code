@@ -4,12 +4,10 @@
     padding: 0;
     margin: 0;
 }
-
 /* Set the back ground color for body */
 body {
     background-color: #d9dcd6;
 }
-
 /* styles for header section */
 header {
     padding: 20px;
@@ -17,18 +15,15 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
 /* styles for H1 elements in header section */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
 /* styles for "seo" class in the H1 element */
 header h1 .seo {
     color: #d9dcd6;
 }
-
 /* styles for the div element in the header section */ 
 header nav {
     padding-top: 15px;
@@ -37,29 +32,24 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
 /* styles for the unordered list in the header div */
 header nav ul {
     list-style-type: none;
 }
-
 /* Styles for list items in the header div ul */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
 /* Styles for anchor (link) elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
 /* Styles for paragraph elements */
 p {
     font-size: 16px;
 }
-
 /* Styles for the hero section */
 .hero {
     height: 800px;
@@ -69,26 +59,22 @@ p {
     background-size: cover;
     background-position: center;
 }
-
 /* Define CSS classes for floating elements */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
 /* Define CSS classes for floating elements */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
 /* Styles for the content section */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
 /* Styles for the benefits section */
 .benefits {
     margin-right: 20px;
@@ -100,26 +86,22 @@ main {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
 /* Styles for individual benefit sections */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 } 
-
 /* Styles for heading elements within benefit sections */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
 /* Styles for images within benefit sections */
 .benefit-lead img, .benefit-brand img,.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* Styles for the "search-engine-optimization" section */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -129,18 +111,15 @@ main {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 /* Styles for images within benefit sections */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-
 /* Styles for heading elements within the sections */
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 /* Styles for the footer section */
 footer {
     padding: 30px;
